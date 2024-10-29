@@ -9,10 +9,7 @@ This project aims to cluster online retail customer data to identify meaningful 
 - [Overview](#overview)
 - [Technical Details](#technical-details)
 - [Results & Conclusion](#results--conclusion)
-- [Setup & Installation](#setup--installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Technical Details
 
